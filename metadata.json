@@ -1,0 +1,6 @@
+{
+  "name": "HAOC VoIP Monitor",
+  "description": "Painel interativo de monitoramento de ramais VoIP por bloco, análise de falhas de resposta, tempo de inatividade e gestão de Ramais.json.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
